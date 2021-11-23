@@ -1,3 +1,3 @@
-# Generating-Shakespearean-text-using-an-RNN
+# Generating-Shakespearean-text-using-a-GRU
 
-The code trains an RNN on a datasaet of Shakespeare text.
+The code trains a GRU on a datasaet of Shakespeare text.
